@@ -4,5 +4,7 @@ Date: 8/7/2013
 
 Run from CryptGUI.py
 Uses slightly modified Vernam Cipher
+All regular keyboard characters accepted for key, message or cipher
+Key does NOT have to be as long as message
 
 All rights reserved I guess
